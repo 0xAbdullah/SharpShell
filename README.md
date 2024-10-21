@@ -23,7 +23,7 @@ cd SharpShell
 dotnet build
 ```
 
-## ToDO
+## ToDo
 
 - [ ] Implement AMSI/ETW bypass.
 - [ ] ...
