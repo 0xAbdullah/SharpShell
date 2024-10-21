@@ -23,7 +23,7 @@ cd SharpShell
 dotnet build
 ```
 
-## Roadmap
+## ToDO
 
 - [ ] Implement AMSI/ETW bypass.
 - [ ] ...
