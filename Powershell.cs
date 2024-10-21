@@ -18,7 +18,7 @@ namespace SharpShell
                 using (Pipeline pipeline = runspace.CreatePipeline())
                 {
                     // Add the command to the pipeline
-                    pipeline.Commands.AddScript(command);
+                    pipeline.Commands.Add(command);
 
                     // Execute the command and collect the results
                     var results = pipeline.Invoke();
