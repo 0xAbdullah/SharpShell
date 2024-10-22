@@ -14,11 +14,11 @@ SharpShell is built based on the article '[PowerShell Enhanced Logging Capabilit
 To execute commands using SharpShell, use the following syntax:
 
 ```bash
-SharpShell.exe -c Command/Base64 -t
+SharpShell.exe -c Command/Base64 -l
 ```
 
 - `-c` : String/Base64-encoded command to execute.
-- `-t` : To bypass Powershell logging.
+- `-l` : To bypass Powershell logging.
 
 ## Building the Project
 
