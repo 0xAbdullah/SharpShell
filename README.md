@@ -19,6 +19,8 @@ SharpShell.exe -c Command/Base64 -l
 
 - `-c` : String/Base64-encoded command to execute.
 - `-l` : To bypass Powershell logging.
+- `-a` : To bypass AMSI.
+- `-e` : To bypass ETW.
 
 ## Building the Project
 
