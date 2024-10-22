@@ -4,7 +4,7 @@ SharpShell is built based on the article '[PowerShell Enhanced Logging Capabilit
 - PowerShell Script Block Logging (Event ID 4104).
 - PowerShell Constrained Language Mode (CLM).
 - Anti-malware Scan Interface (AMSI): (Not implemented yet, but planned for future updates!)
-- PowerShell Event Tracing for Windows (ETW): (Not implemented yet, but planned for future updates!)
+- Event Tracing for Windows (ETW): (Not implemented yet, but planned for future updates!)
 
 ![](https://github.com/0xAbdullah/SharpShell/raw/refs/heads/main/pic/21.10.2024_12.20.33_REC(1).gif)
 
