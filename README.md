@@ -29,6 +29,10 @@ cd SharpShell
 dotnet build
 ```
 
+## Tested on  
+- Windows 11 Pro
+- Windows 10 Pro
+
 ## ToDo
 
 - [ ] Implement AMSI/ETW bypass.
