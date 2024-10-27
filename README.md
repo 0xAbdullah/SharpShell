@@ -6,6 +6,8 @@ SharpShell is built based on the article '[PowerShell Enhanced Logging Capabilit
 - Anti-malware Scan Interface (AMSI)
 - Event Tracing for Windows (ETW)
 
+![](https://github.com/0xAbdullah/SharpShell/blob/main/pic/image.png)
+
 ![](https://github.com/0xAbdullah/SharpShell/raw/refs/heads/main/pic/21.10.2024_12.20.33_REC(1).gif)
 
 
