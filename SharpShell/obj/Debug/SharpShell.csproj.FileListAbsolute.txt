@@ -1,0 +1,10 @@
+C:\Users\Lab-PC01\source\repos\SharpShell\SharpShell\obj\Debug\SharpShell.csproj.AssemblyReference.cache
+C:\Users\Lab-PC01\source\repos\SharpShell\SharpShell\obj\Debug\SharpShell.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab-PC01\source\repos\SharpShell\SharpShell\obj\Debug\SharpShell.csproj.CoreCompileInputs.cache
+C:\Users\Lab-PC01\source\repos\SharpShell\SharpShell\bin\Debug\SharpShell.exe.config
+C:\Users\Lab-PC01\source\repos\SharpShell\SharpShell\bin\Debug\SharpShell.exe
+C:\Users\Lab-PC01\source\repos\SharpShell\SharpShell\bin\Debug\SharpShell.pdb
+C:\Users\Lab-PC01\source\repos\SharpShell\SharpShell\bin\Debug\system.management.automation.dll
+C:\Users\Lab-PC01\source\repos\SharpShell\SharpShell\obj\Debug\SharpShell.csproj.CopyComplete
+C:\Users\Lab-PC01\source\repos\SharpShell\SharpShell\obj\Debug\SharpShell.exe
+C:\Users\Lab-PC01\source\repos\SharpShell\SharpShell\obj\Debug\SharpShell.pdb
