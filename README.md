@@ -1,7 +1,7 @@
 # SharpShell
 SharpShell is built based on the article '[PowerShell Enhanced Logging Capabilities Bypass](https://avantguard.io/en/blog/powershell-enhanced-logging-capabilities-bypass)' to bypass PowerShell logging and additional security measures. With a single execution, you can bypass the following:
 - PowerShell Transcription Logging.
-- PowerShell Script Block Logging (Event ID 4104).
+- PowerShell Script Block Logging (Event IDs 4104, 4105 and 4106).
 - PowerShell Constrained Language Mode (CLM).
 - Anti-malware Scan Interface (AMSI)
 - Event Tracing for Windows (ETW)
